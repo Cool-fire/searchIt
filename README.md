@@ -3,7 +3,7 @@
 ## Libraries
   - [Kotlin](https://kotlinlang.org/) for writing android code
   - [Retrofit](https://square.github.io/retrofit/) as HTTP client
-  - [Glide](https://github.com/bumptech/glide) for image downloaiding and display
+  - [Glide](https://github.com/bumptech/glide) for image downloading and display
 
 ## Architecture
   - [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) (Mode-View-ViewModel)
