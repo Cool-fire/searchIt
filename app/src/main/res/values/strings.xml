@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dunzo Assignment</string>
+    <string name="search_hint">Search Here</string>
+    <string name="search">Search</string>
+    <string name="search_result_image">search result image</string>
+    <string name="blank_text">Blank Text</string>
+    <string name="image_details">image details</string>
+    <string name="title">Title</string>
+</resources>

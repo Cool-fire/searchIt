@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="search_padding_left">5dp</dimen>
+    <dimen name="margin_start">8dp</dimen>
+    <dimen name="margin_end">8dp</dimen>
+    <dimen name="button_padding">50dp</dimen>
+    <dimen name="card_radius">16dp</dimen>
+    <dimen name="margin">8dp</dimen>
+</resources>
